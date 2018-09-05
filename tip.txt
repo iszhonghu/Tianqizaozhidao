@@ -1,0 +1,11 @@
+数据库:weather
+包名com.example.zhonghu.tianqizaozhidao
+项目名字:天气早知道
+用了http://guolin.tech/api的服务器。
+主要功能：
+    1.可以罗列出全国所有的省县市；
+    2.可以查看全国任意城市的天气信息；
+    3.可以自由地切换出师，去查看其它城市的天气；
+    4.提供手动更新以及后台自动更新天气的功能。
+db存放数据库相关代码，gson存放GSON模型，service存放服务相关代码，util存放工具相关代码
+和风天气 认证key：5b2027273e28424790913e4eb89eef04
